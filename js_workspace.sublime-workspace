@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cidade",
+				"cidades"
+			],
+			[
+				"combo",
+				"comboCidade"
+			],
+			[
+				"inici",
+				"iniciar"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"preve",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"getele",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"document",
+				"documentElement\t: Element Document"
+			],
+			[
+				"option",
+				"optionEstado"
+			],
+			[
+				"opti",
+				"optionEstado"
+			],
+			[
+				"selec",
+				"selecaoUsuarios"
+			],
+			[
+				"cono",
+				"console_log"
+			],
+			[
+				"total",
+				"totalElement"
+			],
+			[
+				"valor",
+				"valorElement"
+			],
+			[
+				"getel",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"remove",
+				"remove\t(): void Element"
+			],
+			[
+				"sub",
+				"subtraido"
+			],
+			[
+				"alea",
+				"valorAleatorio"
+			],
+			[
+				"rand",
+				"random\t(): number Math"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"tem",
+				"temFoto"
+			],
+			[
+				"totalim",
+				"totalImposto"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Temp/codigo-fonte",
+		"/C/Temp/codigo-fonte/chamando-funcoes-atraves-de-call-e-apply",
+		"/C/Temp/codigo-fonte/namespaces"
+	],
+	"file_history":
+	[
+		"/C/Temp/version-control/recipes/.git/COMMIT_EDITMSG",
+		"/C/temp/version-control/recipes/cake-recipe.txt",
+		"/C/temp/version-control/recipes/chili-recipe.txt",
+		"/C/Temp/version-control/recipes/.git/MERGE_MSG",
+		"/C/temp/version-control/sarah_changes.sh",
+		"/C/temp/version-control/recipes/beans.txt",
+		"/C/Temp/version-control/reflections/.git/COMMIT_EDITMSG",
+		"/C/Temp/version-control/asteroids/.git/COMMIT_EDITMSG",
+		"/C/temp/version-control/asteroids/game.js",
+		"/C/Temp/version-control/asteroids/.git/MERGE_MSG",
+		"/Z/dev/tmp/pilhaAprovacaoMega.sql",
+		"/C/temp/version-control/reflections/lesson-3-reflection-prompts.txt",
+		"/C/temp/version-control/reflections/lesson-2-reflection-prompts.txt",
+		"/C/temp/version-control/asteroids/index.html",
+		"/C/temp/version-control/reflections/lesson_1_reflection_prompts.txt",
+		"/C/Users/fpereira/.bash_profile",
+		"/C/Users/fpereira/.bashrc",
+		"/C/Temp/version-control/.bashrc",
+		"/C/Temp/codigo-fonte/namespaces/index.html",
+		"/C/Temp/codigo-fonte/namespaces/namespaces.js",
+		"/C/Temp/codigo-fonte/chamando-funcoes-atraves-de-call-e-apply/index.html",
+		"/C/Temp/codigo-fonte/chamando-funcoes-atraves-de-call-e-apply/chamando-funcoes-atraves-de-call-e-apply.js",
+		"/C/Temp/codigo-fonte/disparando-eventos-customizados/index.html",
+		"/C/Temp/codigo-fonte/chamando-funcoes-atraves-de-call-e-apply/exemplo.js",
+		"/C/Temp/codigo-fonte/disparando-eventos-customizados/disparando-eventos-customizados.js",
+		"/C/Temp/codigo-fonte/usando-a-funcao-bind/index.html",
+		"/C/Temp/codigo-fonte/usando-a-funcao-bind/usando-a-funcao-bind-2.js",
+		"/C/Temp/codigo-fonte/usando-a-funcao-bind/usando-a-funcao-bind.js",
+		"/C/Temp/codigo-fonte/propriedade-prototype-das-funcoes/propriedade-prototype-das-funcoes.js",
+		"/C/Temp/codigo-fonte/module-pattern/module-pattern.js",
+		"/C/Temp/codigo-fonte/module-pattern/sem-module-pattern.js",
+		"/C/Temp/codigo-fonte/funcoes-construtoras/funcoes-construtoras.js",
+		"/C/Temp/codigo-fonte/funcao-fabrica/funcao-fabrica.js",
+		"/C/Temp/codigo-fonte/como-funciona-o-shadowing/como-funciona-o-shadowing.js",
+		"/C/Temp/codigo-fonte/entendendo-o-prototipo-do-objeto/entendendo-o-prototipo-do-objeto.js",
+		"/C/Temp/codigo-fonte/temporizadores/index.html",
+		"/C/Temp/codigo-fonte/temporizadores/temporizadores.js",
+		"/C/Temp/codigo-fonte/disparando-eventos/index.html",
+		"/C/Temp/codigo-fonte/disparando-eventos/disparando-eventos.js",
+		"/C/Temp/codigo-fonte/plugins-jquery/index.html",
+		"/C/Temp/codigo-fonte/eventos-de-manipulacao-do-dom/eventos-de-manipulacao-do-dom.js",
+		"/C/Temp/codigo-fonte/eventos-de-manipulacao-do-dom/index.html",
+		"/C/Temp/codigo-fonte/ajax-e-promises/index.html",
+		"/C/Temp/codigo-fonte/plugins-jquery/plugins-jquery.js",
+		"/C/Temp/codigo-fonte/debug-com-developer-tools/total.js",
+		"/C/Temp/codigo-fonte/debug-com-developer-tools/index.html",
+		"/C/Temp/codigo-fonte/ajax-e-promises/ajax-e-promises.js",
+		"/C/Temp/codigo-fonte/manipulando-css/index.html",
+		"/C/Temp/codigo-fonte/manipulando-css/style.css",
+		"/C/Temp/codigo-fonte/manipulando-css/manipulando-css.js",
+		"/C/Users/fpereira/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/C/Temp/codigo-fonte/manipulando-css/seletores.js",
+		"/C/Temp/codigo-fonte/seletores/index.html",
+		"/C/Temp/codigo-fonte/seletores/seletores.js",
+		"/C/Temp/codigo-fonte/iterando-nos-elementos-com-forEach/iterando-nos-elementos-com-forEach.js",
+		"/C/Temp/codigo-fonte/funcoes-toString-e-join/funcoes-toString-e-join.js",
+		"/C/Temp/codigo-fonte/elementos-do-array/elementos-do-array.js",
+		"/C/Temp/codigo-fonte/criando-arrays/criando-arrays.js",
+		"/C/Temp/codigo-fonte/adicionando-e-removendo-elemento-do-array/adicionando-e-removendo-elemento-do-array.js",
+		"/C/Temp/codigo-fonte/comparando-objetos/comparando-objetos.js",
+		"/C/Temp/codigo-fonte/apagando-propriedades-do-objeto/apagando-propriedades-do-objeto.js",
+		"/C/Temp/codigo-fonte/iterando-sobre-propriedades-do-objeto/iterando-sobre-propriedades-do-objeto.js",
+		"/C/Temp/codigo-fonte/objetos-dentro-de-objetos/objetos-dentro-de-objetos.js",
+		"/C/Temp/codigo-fonte/criando-objetos/criando-objetos.js",
+		"/C/Temp/codigo-fonte/closures/closures.js",
+		"/C/Temp/codigo-fonte/escopo-de-funcao-e-global/escopo-de-funcao-e-global.js",
+		"/C/Temp/codigo-fonte/criando-funcoes/criando-funcoes.js",
+		"/C/Temp/codigo-fonte/funcoes-matematicas/funcoes-matematicas.js",
+		"/C/Temp/codigo-fonte/valores-null-e-undefined/valores-null-e-undefined.js",
+		"/C/Temp/codigo-fonte/estrutura-de-controle-while/estrutura-de-controle-while.js",
+		"/C/Temp/codigo-fonte/estrutura-de-controle-for/estrutura-de-controle-for.js",
+		"/C/Temp/codigo-fonte/operador-ternario/operador-ternario.js",
+		"/C/Temp/codigo-fonte/estrutura-de-controle-if-else/estrutura-de-controle-if-else2.js",
+		"/C/Temp/codigo-fonte/estrutura-de-controle-if-else/estrutura-de-controle-if-else.js",
+		"/C/Temp/codigo-fonte/tipagem_dinamica/__init__.py",
+		"/C/Temp/codigo-fonte/tipagem_dinamica/tipagem_dinamica.js",
+		"/C/Temp/codigo-fonte/variaveis_e_hoisting.js",
+		"/C/Temp/codigo-fonte/variaveis_e_hoisting2.js",
+		"/C/Users/fpereira/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/C/Users/fpereira/Desktop/codigo-fonte",
+		"/C/Users/fpereira/Desktop/teste.js",
+		"/C/Users/fpereira/AppData/Roaming/Sublime Text 3/Packages/User/node.sublime-build",
+		"//fa01/MegaERP/Config/MegaClient.xml",
+		"/C/Users/fpereira/Desktop/SB14030B.RET",
+		"/C/Users/fpereira/Desktop/SB14030A.RET"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"breakIntoFragments",
+			"coin",
+			"Coin",
+			"coin",
+			"coins",
+			"Coin",
+			"delaybefo",
+			"before",
+			"')\n",
+			"class_name",
+			"'\n",
+			"ajax-e-promises.js",
+			"('",
+			"join",
+			"console",
+			"19290",
+			"BI"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Temp\\codigo-fonte"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 227.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 386.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
